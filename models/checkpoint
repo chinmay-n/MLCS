@@ -1,0 +1,2 @@
+model_checkpoint_path: "x10_sunglasses_bd_net_weights.tf"
+all_model_checkpoint_paths: "x10_sunglasses_bd_net_weights.tf"
